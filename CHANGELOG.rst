@@ -2,8 +2,8 @@
 Changelog for package pr2_surrogate
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2014-09-07)
+------------------
 * Replaced dependency on rviz plugins
 * Contributors: TheDash
 
