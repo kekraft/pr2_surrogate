@@ -6,11 +6,13 @@
                into a surrogate for your physical body using the Oculus RIFT HMD
                and Razer Hydra controller.</description>
 
-  <maintainer email="dgossow@willowgarage.com">David Gossow</maintainer>
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 
   <license>BSD</license>
 
   <!-- <url type="website">http://ros.org/wiki/pr2_surrogate</url> -->
+  <url type="website">http://wiki.ros.org/pr2_surrogate</url>
+  <url type="bugtracker">https://github.com/PR2/pr2_surrogate.git</url>
 
   <author email="dgossow@willowgarage.com">David Gossow</author>
 
