@@ -2,6 +2,9 @@
 Changelog for package pr2_surrogate
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.5 (2014-09-18)
 ------------------
 * Changed maintainer; updated websites
