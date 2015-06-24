@@ -13,3 +13,5 @@ How to run:
 - Connect your Hydra and Oculus Rift
 - On the robot: `robot start`, then `roslaunch pr2_surrogate robot.launch`
 - On the desktop: `roslaunch pr2_surrogate desktop.launch`
+
+Trying to extend this to work well in the etu
